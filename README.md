@@ -23,6 +23,14 @@
 <br>
 <br>
 <br>
+🖥️Versões Desktop:
+<br>
+<br>
+<br>
+<img width="1536" height="1024" alt="desktops" src="https://github.com/user-attachments/assets/00ad2c13-7269-40df-8090-234e09ae09db" />
+
+<br>
+<br>
 🖥️Versão Desktop - button start:
 <br>
 <br>
@@ -51,6 +59,6 @@
 📱Versão mobile (responsivo) - button stop:
 <br>
 <br>
-<img width="260" height="573" alt="Captura de tela 2025-08-21 225057" src="https://github.com/user-attachments/assets/8c23d458-2ea2-4bc3-ad34-e4f44fd8ffdb" />
+<img width="1024" height="1536" alt="cell-cron" src="https://github.com/user-attachments/assets/efdfa212-f11e-4231-b307-1f472fbb40eb" />
 
 
